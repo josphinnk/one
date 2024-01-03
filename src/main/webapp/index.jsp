@@ -14,7 +14,7 @@
         <h1 style="color:  silver color; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
         <h1 style="color: black color; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
         <h1 style="color: lavender color; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
-        <h1 style="color: violet color; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
+        <h1 style="color: orange color; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
 
 
 	
