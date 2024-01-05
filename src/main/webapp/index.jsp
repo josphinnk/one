@@ -13,7 +13,8 @@
         <h1 style="color: lavender color; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
         <h1 style="color: red color; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
        
-
+<h1 style="color: blue color font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1> 
+<h1 style="color: coffee color; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
 	
 	
 
